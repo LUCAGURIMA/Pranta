@@ -1,0 +1,18 @@
+{
+  "plant_name": "Tomate_01",
+  "genotype": "WT",
+  "camera_id": 0,
+  "timestamp_iso": "2025-01-15T14:32:45.123456",
+  "image_path": "data/raw/Tomate_01/Tomate_01_20250115_143245_cam0.jpg",
+  "area_px": 45230.5,
+  "perimeter_px": 850.2,
+  "solidity": 0.92,
+  "circularity": 0.78,
+  "aspect_ratio": 1.15,
+  "hue_mean": 52.3,
+  "hue_std": 8.5,
+  "sat_mean": 145.2,
+  "sat_std": 25.3,
+  "val_mean": 120.1,
+  "val_std": 18.7
+}

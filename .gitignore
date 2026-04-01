@@ -1,0 +1,43 @@
+# Ambiente virtual
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+logs/
+*.log
+
+# Dados capturados (deixe como rastreado apenas estrutura)
+data/raw/*/
+data/processed/*/
+data/results/*/
+
+# OS
+.DS_Store
+Thumbs.db
+.tmp/
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment variables
+.env
+.env.local
